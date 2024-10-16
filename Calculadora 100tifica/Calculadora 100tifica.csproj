@@ -23,7 +23,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://github.com/MadManJohnSmith/100tifica/raw/refs/heads/master/Calculadora%2520100tifica/madmanjohnsmith.github.io/100tifica/</InstallUrl>
+    <InstallUrl>https://madmanjohnsmith.github.io/100tifica/Calculadora%2520100tifica/madmanjohnsmith.github.io/100tifica/</InstallUrl>
     <UpdateUrl>https://madmanjohnsmith.github.io/100tifica/Calculadora%2520100tifica/madmanjohnsmith.github.io/100tifica/</UpdateUrl>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>

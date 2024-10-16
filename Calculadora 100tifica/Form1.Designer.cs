@@ -71,7 +71,7 @@
             // 
             // btnSobreX
             // 
-            this.btnSobreX.BackColor = System.Drawing.Color.Transparent;
+            this.btnSobreX.BackColor = System.Drawing.Color.Teal;
             this.btnSobreX.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnSobreX.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnSobreX.FlatAppearance.BorderSize = 0;
@@ -91,7 +91,7 @@
             // 
             // btnRaizX
             // 
-            this.btnRaizX.BackColor = System.Drawing.Color.Transparent;
+            this.btnRaizX.BackColor = System.Drawing.Color.Teal;
             this.btnRaizX.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnRaizX.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnRaizX.FlatAppearance.BorderSize = 0;
@@ -111,7 +111,7 @@
             // 
             // btnRaiz3
             // 
-            this.btnRaiz3.BackColor = System.Drawing.Color.Transparent;
+            this.btnRaiz3.BackColor = System.Drawing.Color.Teal;
             this.btnRaiz3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnRaiz3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnRaiz3.FlatAppearance.BorderSize = 0;
@@ -131,7 +131,7 @@
             // 
             // btnExp
             // 
-            this.btnExp.BackColor = System.Drawing.Color.Transparent;
+            this.btnExp.BackColor = System.Drawing.Color.Teal;
             this.btnExp.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnExp.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnExp.FlatAppearance.BorderSize = 0;
@@ -151,7 +151,7 @@
             // 
             // btnCubo
             // 
-            this.btnCubo.BackColor = System.Drawing.Color.Transparent;
+            this.btnCubo.BackColor = System.Drawing.Color.Teal;
             this.btnCubo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnCubo.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnCubo.FlatAppearance.BorderSize = 0;
@@ -171,7 +171,7 @@
             // 
             // btnBorrar
             // 
-            this.btnBorrar.BackColor = System.Drawing.Color.Transparent;
+            this.btnBorrar.BackColor = System.Drawing.Color.Teal;
             this.btnBorrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnBorrar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnBorrar.FlatAppearance.BorderSize = 0;
@@ -191,7 +191,7 @@
             // 
             // btnC
             // 
-            this.btnC.BackColor = System.Drawing.Color.Transparent;
+            this.btnC.BackColor = System.Drawing.Color.Teal;
             this.btnC.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnC.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnC.FlatAppearance.BorderSize = 0;
@@ -211,7 +211,7 @@
             // 
             // btnCE
             // 
-            this.btnCE.BackColor = System.Drawing.Color.Transparent;
+            this.btnCE.BackColor = System.Drawing.Color.Teal;
             this.btnCE.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnCE.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnCE.FlatAppearance.BorderSize = 0;
@@ -231,7 +231,7 @@
             // 
             // btnPi
             // 
-            this.btnPi.BackColor = System.Drawing.Color.Transparent;
+            this.btnPi.BackColor = System.Drawing.Color.Teal;
             this.btnPi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnPi.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnPi.FlatAppearance.BorderSize = 0;
@@ -251,7 +251,7 @@
             // 
             // btnCuadrado
             // 
-            this.btnCuadrado.BackColor = System.Drawing.Color.Transparent;
+            this.btnCuadrado.BackColor = System.Drawing.Color.Teal;
             this.btnCuadrado.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnCuadrado.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnCuadrado.FlatAppearance.BorderSize = 0;
@@ -271,7 +271,7 @@
             // 
             // btnDivi
             // 
-            this.btnDivi.BackColor = System.Drawing.Color.Transparent;
+            this.btnDivi.BackColor = System.Drawing.Color.Teal;
             this.btnDivi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnDivi.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnDivi.FlatAppearance.BorderSize = 0;
@@ -291,7 +291,7 @@
             // 
             // btnTan
             // 
-            this.btnTan.BackColor = System.Drawing.Color.Transparent;
+            this.btnTan.BackColor = System.Drawing.Color.Teal;
             this.btnTan.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnTan.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnTan.FlatAppearance.BorderSize = 0;
@@ -311,7 +311,7 @@
             // 
             // btnCos
             // 
-            this.btnCos.BackColor = System.Drawing.Color.Transparent;
+            this.btnCos.BackColor = System.Drawing.Color.Teal;
             this.btnCos.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnCos.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnCos.FlatAppearance.BorderSize = 0;
@@ -331,7 +331,7 @@
             // 
             // btnSin
             // 
-            this.btnSin.BackColor = System.Drawing.Color.Transparent;
+            this.btnSin.BackColor = System.Drawing.Color.Teal;
             this.btnSin.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnSin.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnSin.FlatAppearance.BorderSize = 0;
@@ -351,7 +351,7 @@
             // 
             // btnRaiz
             // 
-            this.btnRaiz.BackColor = System.Drawing.Color.Transparent;
+            this.btnRaiz.BackColor = System.Drawing.Color.Teal;
             this.btnRaiz.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnRaiz.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnRaiz.FlatAppearance.BorderSize = 0;
@@ -371,7 +371,7 @@
             // 
             // btnMulti
             // 
-            this.btnMulti.BackColor = System.Drawing.Color.Transparent;
+            this.btnMulti.BackColor = System.Drawing.Color.Teal;
             this.btnMulti.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnMulti.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnMulti.FlatAppearance.BorderSize = 0;
@@ -391,7 +391,7 @@
             // 
             // btn9
             // 
-            this.btn9.BackColor = System.Drawing.Color.Transparent;
+            this.btn9.BackColor = System.Drawing.Color.Teal;
             this.btn9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn9.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn9.FlatAppearance.BorderSize = 0;
@@ -411,7 +411,7 @@
             // 
             // btn8
             // 
-            this.btn8.BackColor = System.Drawing.Color.Transparent;
+            this.btn8.BackColor = System.Drawing.Color.Teal;
             this.btn8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn8.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn8.FlatAppearance.BorderSize = 0;
@@ -431,7 +431,7 @@
             // 
             // btn7
             // 
-            this.btn7.BackColor = System.Drawing.Color.Transparent;
+            this.btn7.BackColor = System.Drawing.Color.Teal;
             this.btn7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn7.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn7.FlatAppearance.BorderSize = 0;
@@ -451,7 +451,7 @@
             // 
             // btnPot
             // 
-            this.btnPot.BackColor = System.Drawing.Color.Transparent;
+            this.btnPot.BackColor = System.Drawing.Color.Teal;
             this.btnPot.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnPot.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnPot.FlatAppearance.BorderSize = 0;
@@ -471,7 +471,7 @@
             // 
             // btnResta
             // 
-            this.btnResta.BackColor = System.Drawing.Color.Transparent;
+            this.btnResta.BackColor = System.Drawing.Color.Teal;
             this.btnResta.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnResta.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnResta.FlatAppearance.BorderSize = 0;
@@ -491,7 +491,7 @@
             // 
             // btn6
             // 
-            this.btn6.BackColor = System.Drawing.Color.Transparent;
+            this.btn6.BackColor = System.Drawing.Color.Teal;
             this.btn6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn6.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn6.FlatAppearance.BorderSize = 0;
@@ -511,7 +511,7 @@
             // 
             // btn5
             // 
-            this.btn5.BackColor = System.Drawing.Color.Transparent;
+            this.btn5.BackColor = System.Drawing.Color.Teal;
             this.btn5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn5.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn5.FlatAppearance.BorderSize = 0;
@@ -531,7 +531,7 @@
             // 
             // btn4
             // 
-            this.btn4.BackColor = System.Drawing.Color.Transparent;
+            this.btn4.BackColor = System.Drawing.Color.Teal;
             this.btn4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn4.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn4.FlatAppearance.BorderSize = 0;
@@ -551,7 +551,7 @@
             // 
             // btn10x
             // 
-            this.btn10x.BackColor = System.Drawing.Color.Transparent;
+            this.btn10x.BackColor = System.Drawing.Color.Teal;
             this.btn10x.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn10x.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn10x.FlatAppearance.BorderSize = 0;
@@ -571,7 +571,7 @@
             // 
             // btnSuma
             // 
-            this.btnSuma.BackColor = System.Drawing.Color.Transparent;
+            this.btnSuma.BackColor = System.Drawing.Color.Teal;
             this.btnSuma.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnSuma.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnSuma.FlatAppearance.BorderSize = 0;
@@ -591,7 +591,7 @@
             // 
             // btn3
             // 
-            this.btn3.BackColor = System.Drawing.Color.Transparent;
+            this.btn3.BackColor = System.Drawing.Color.Teal;
             this.btn3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn3.FlatAppearance.BorderSize = 0;
@@ -611,7 +611,7 @@
             // 
             // btn2
             // 
-            this.btn2.BackColor = System.Drawing.Color.Transparent;
+            this.btn2.BackColor = System.Drawing.Color.Teal;
             this.btn2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn2.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn2.FlatAppearance.BorderSize = 0;
@@ -631,7 +631,7 @@
             // 
             // btn1
             // 
-            this.btn1.BackColor = System.Drawing.Color.Transparent;
+            this.btn1.BackColor = System.Drawing.Color.Teal;
             this.btn1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn1.FlatAppearance.BorderSize = 0;
@@ -651,7 +651,7 @@
             // 
             // btnLog
             // 
-            this.btnLog.BackColor = System.Drawing.Color.Transparent;
+            this.btnLog.BackColor = System.Drawing.Color.Teal;
             this.btnLog.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnLog.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnLog.FlatAppearance.BorderSize = 0;
@@ -671,7 +671,7 @@
             // 
             // btnResultado
             // 
-            this.btnResultado.BackColor = System.Drawing.Color.Transparent;
+            this.btnResultado.BackColor = System.Drawing.Color.Teal;
             this.btnResultado.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnResultado.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnResultado.FlatAppearance.BorderSize = 0;
@@ -691,7 +691,7 @@
             // 
             // btnPunto
             // 
-            this.btnPunto.BackColor = System.Drawing.Color.Transparent;
+            this.btnPunto.BackColor = System.Drawing.Color.Teal;
             this.btnPunto.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnPunto.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnPunto.FlatAppearance.BorderSize = 0;
@@ -711,7 +711,7 @@
             // 
             // btn0
             // 
-            this.btn0.BackColor = System.Drawing.Color.Transparent;
+            this.btn0.BackColor = System.Drawing.Color.Teal;
             this.btn0.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn0.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btn0.FlatAppearance.BorderSize = 0;
@@ -731,7 +731,7 @@
             // 
             // btnSigno
             // 
-            this.btnSigno.BackColor = System.Drawing.Color.Transparent;
+            this.btnSigno.BackColor = System.Drawing.Color.Teal;
             this.btnSigno.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnSigno.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnSigno.FlatAppearance.BorderSize = 0;
@@ -751,7 +751,7 @@
             // 
             // btnPorcentaje
             // 
-            this.btnPorcentaje.BackColor = System.Drawing.Color.Transparent;
+            this.btnPorcentaje.BackColor = System.Drawing.Color.Teal;
             this.btnPorcentaje.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnPorcentaje.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnPorcentaje.FlatAppearance.BorderSize = 0;
@@ -775,9 +775,9 @@
             this.label3.Font = new System.Drawing.Font("Product Sans", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(13, 17);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(155, 28);
+            this.label3.Size = new System.Drawing.Size(148, 28);
             this.label3.TabIndex = 42;
-            this.label3.Text = "Científica 1.0.0";
+            this.label3.Text = "Científica 1.0.1";
             // 
             // labResultado
             // 
